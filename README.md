@@ -6,7 +6,7 @@ The player controls a dinosaur that jumps over obstacles to score points and sur
 
 ~ Demo ~
 
-[Play Game](http://127.0.0.1:5500/)
+[Play Game](https://poojanshu.github.io/Dino-Dragon-Game/)
 
 ~ Screenshots ~
 
